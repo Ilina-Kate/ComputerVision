@@ -1,0 +1,5 @@
+0 Parallelograms
+1 Squares
+2 Rhombs
+3 Trapezes
+4 Rectangles
